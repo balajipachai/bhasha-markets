@@ -1,0 +1,6 @@
+{
+  "question": "Will the monsoon reach Pune by 10 June 2026?",
+  "resolutionRules": "Resolves Yes if the IMD declares monsoon onset over Pune on or before 10 June 2026. Resolves No if onset is declared after 10 June 2026, or is not declared by 30 June 2026. Rainfall of more than 10 mm in 24 hours is not required.",
+  "resolutionSource": "IMD Pune daily weather bulletin",
+  "closeDate": "2026-06-30"
+}

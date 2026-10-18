@@ -1,0 +1,6 @@
+{
+  "question": "Will total club trading volume exceed 5 lakh play tokens before 1 October 2026?",
+  "resolutionRules": "Resolves Yes if the leaderboard shows more than 5,00,000 play tokens traded before 1 October 2026. Individual payouts are capped at 1 crore play tokens.",
+  "resolutionSource": "Club leaderboard page",
+  "closeDate": "2026-10-01"
+}

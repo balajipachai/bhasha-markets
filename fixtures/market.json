@@ -1,4 +1,6 @@
 {
   "question": "Will the RBI cut the repo rate by 25 basis points before 15 June 2026?",
-  "resolutionRules": "Resolves Yes if the RBI announces a cut of 0.25% before 15 June 2026. If the meeting is postponed beyond that date, resolves No. Each winner's payout is capped at 1,00,000 play tokens."
+  "resolutionRules": "Resolves Yes if the RBI announces a cut of 0.25% before 15 June 2026. If the meeting is postponed beyond that date, resolves No. Each winner's payout is capped at 1,00,000 play tokens.",
+  "resolutionSource": "RBI Monetary Policy Committee press release",
+  "closeDate": "2026-06-15"
 }

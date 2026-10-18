@@ -1,0 +1,6 @@
+{
+  "question": "Will the college canteen have at least 2 coffee machines on 1 August 2026?",
+  "resolutionRules": "Resolves Yes if a Hostel Committee notice dated on or after 1 August 2026 lists at least 2 working coffee machines. Resolves No if fewer than 2 are listed.",
+  "resolutionSource": "Hostel Committee notice board",
+  "closeDate": "2026-08-01"
+}
