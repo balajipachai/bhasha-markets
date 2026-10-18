@@ -4,7 +4,7 @@ export type AnyLang = Lang | "en";
 
 export const LANG_NAMES: Record<Lang, string> = { hi: "Hindi", ta: "Tamil", mr: "Marathi" };
 
-const nfc = (s: string) => s.normalize("NFC");
+export const nfc = (s: string) => s.normalize("NFC");
 
 // Native-script digit blocks, each starting at the zero digit.
 const DIGIT_ZEROS = [0x0966 /* Devanagari (Hindi, Marathi) */, 0x0be6 /* Tamil */];
